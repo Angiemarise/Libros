@@ -2,6 +2,8 @@
 
 Aqui se presentara la interfaz de web API de libros de 5to semestre.
 
+![image](https://github.com/Angiemarise/Libros/assets/147665525/7162fb53-ac02-4412-88a8-ca01df45a316)
+
 ![Imagen de WhatsApp 2024-05-19 a las 15 40 07_9970de89](https://github.com/Angiemarise/Libros/assets/147665525/ca75a038-28a5-4114-8057-09be780bda5d)
 
 REST CONTROLLER
